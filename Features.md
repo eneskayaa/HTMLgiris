@@ -3,6 +3,9 @@
 *  Learnt div & span.
 
 # April 21
+```html
+
+
 
 * <p></p> puts a block to up and lower margins.
 
@@ -21,6 +24,7 @@
 * H<sub>2</sub>O.
 
 * 10<sup>2</sup> = 100 .
+```
 
-*
+
 
