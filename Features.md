@@ -26,5 +26,11 @@
 * 10<sup>2</sup> = 100 .
 ```
 
+# April 24
+
+* Alıntılama Etiketleri
+
+*  <>
+
 
 
